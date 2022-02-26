@@ -71,10 +71,10 @@ public class App {
         System.out.println("add h");
         System.out.println("Cek isi array : "+x);
     
-        //x.add(-3,"j");
-        //System.out.println(" ");
-        //System.out.println("add j");
-        //System.out.println("Cek isi array : "+x);
+        x.add(-3,"j");
+        System.out.println(" ");
+        System.out.println("add j");
+        System.out.println("Cek isi array : "+x);
 
         
     }
